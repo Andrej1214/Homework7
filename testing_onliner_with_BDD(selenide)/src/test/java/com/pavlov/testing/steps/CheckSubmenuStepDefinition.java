@@ -1,6 +1,6 @@
 package com.pavlov.testing.steps;
 
-import pages.HomePage;
+import com.pavlov.testing.pages.HomePage;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

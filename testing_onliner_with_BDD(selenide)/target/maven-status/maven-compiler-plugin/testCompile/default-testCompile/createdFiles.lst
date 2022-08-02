@@ -1,0 +1,4 @@
+com\pavlov\testing\steps\CheckSubmenuStepDefinition.class
+com\pavlov\testing\runner\CucumberRunnerTest.class
+com\pavlov\testing\pages\HomePage.class
+com\pavlov\testing\pages\BasePage.class

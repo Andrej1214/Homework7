@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         plugin = {"pretty"},
         monochrome = true,
-        glue = "com.pavlov.testing",
+        glue = "com.pavlov.testing.steps",
         features = "src/test/resources/com.pavlov.testing.features"
 )
 public class CucumberRunnerTest {
